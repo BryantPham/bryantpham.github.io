@@ -1,0 +1,15 @@
+name: "Test Site"
+description: "My first Jekyll site"
+
+
+url: "http://localhost:4000"
+
+
+
+paginate: 10
+
+
+
+markdown: rdiscount
+permalink: pretty
+pygments: false
